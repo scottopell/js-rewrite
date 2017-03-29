@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "flow-parser": "^0.42.0",
     "recast": "^0.12.2"
   }
 }
